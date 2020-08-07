@@ -1,6 +1,6 @@
-## Hwang Shi Wan, LaTex writer, code maintainer.
-- Currently writing LaTex for [@khongsomeo](https://github.com/khongsomeo)
+## Hwang Shi Wan, LaTeX writer, code maintainer.
+- Currently writing LaTeX for [@khongsomeo](https://github.com/khongsomeo)
 - Maintaining some small projects.
-- Have nice skills on LaTex, PHP & JavaScript.
+- Have nice skills on LaTeX, PHP & JavaScript.
 
 Reach me? I'm busy in this time. In fact, I'm busy all the time!

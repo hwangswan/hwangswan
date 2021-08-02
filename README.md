@@ -7,3 +7,5 @@
   - C/C++, Java
 
 Reach me? I'm busy in this time. In fact, I'm busy all the time!
+
+(Another ego of [@trhgquan](https://github.com/trhgquan))
